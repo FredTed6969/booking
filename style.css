@@ -1,0 +1,30 @@
+
+
+#form {
+    display: flex;
+    height: 10vh;
+    width: 100%;
+    border-bottom: 3px solid;
+    border-color: black;
+}
+
+
+form label {
+    font-family:monospace;
+    font-size: xx-large;
+}
+
+#form button {
+    font-family:monospace;
+    font-size: xx-large;
+    height: 3vh;
+    width: 7vw;
+}
+
+form input {
+    height: 5vh;
+    width: 10vw;
+    font-family:monospace;
+    font-size: xx-large;
+    margin-right: 3vw;
+}
